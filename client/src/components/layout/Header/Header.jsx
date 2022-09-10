@@ -54,6 +54,8 @@ const Header = () => {
 						</li>
             <li>
               <span class="text-white">Call us now</span>
+              {/* <strong class="text-white">Call us</strong>  */}
+              {/* <h6 class="text-white">Call us now<a class="font1" href="tel:0772000206">0772000206</a></h6> */}
             </li>
             <li>
               <a class="font1" href="tel:0776770004" style={{textDecoration:"none"}}>0776770004</a>

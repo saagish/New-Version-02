@@ -70,7 +70,7 @@ const Home = () => {
         <Loader />
       ) : (
         <Fragment>
-          <div className="container" id="container">
+          <div className="container1" id="container">
             {products &&
               products.map((product) => {
                 return <ProductCard key={product._id} product={product} />;

@@ -243,6 +243,23 @@
 .text-white {
   color: #fff!important;
 }
+
+/* .text-white {
+  color: #fff!important;
+  margin: 0;
+  font-size: 1.1rem;
+  line-height: 1.3;
+  margin-right: 0.8rem;
+  align-items: center;
+    text-transform: uppercase;
+    display: flex!important;
+    margin-left: 1rem!important;
+    padding-right: 1.5rem!important;
+    padding-left: 1.5rem!important;
+    margin-right: 3rem!important;
+
+} */
+
 .header-contact {
   align-items: center;
   text-transform: uppercase;
